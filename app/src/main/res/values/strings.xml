@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Git项目管理学习</string>
+    <string name="testContext">我是准备好的控件内容</string>
 </resources>

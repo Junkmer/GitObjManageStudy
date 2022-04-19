@@ -11,4 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    //添加自定义监听设置方案
+    private void onClickListener(){
+        //设置具体控件的监听代码逻辑
+    }
 }
