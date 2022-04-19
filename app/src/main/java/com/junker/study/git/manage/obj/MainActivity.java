@@ -16,4 +16,9 @@ public class MainActivity extends AppCompatActivity {
     private void onClickListener(){
         //设置具体控件的监听代码逻辑
     }
+
+    //我是分支 feature-2 增加的方法
+    private void addCustomTwo(){
+        //具体的方法内容
+    }
 }
