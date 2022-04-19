@@ -21,4 +21,9 @@ public class MainActivity extends AppCompatActivity {
     private void addCustomTwo(){
         //具体的方法内容
     }
+
+    //我是分支 feature-3 增加的方法
+    private void addMethidThree(){
+        //具体的方法内容
+    }
 }
